@@ -8,6 +8,10 @@ const PORT = process.env.PORT || 8000;
 app.use(express.json());
 app.use(express.urlencoded({extended: false}));
 
+//app.use ("/", (req, res) => {
+// res.send("Hello World.");
+//});
+
 app.get("/notes", (req, res) => {
     res.sendFile(__dirname + "/notes.html");
 });
