@@ -10,7 +10,7 @@ An application called Note Taker that can be used to write and save notes. This 
 
 ## Usage
 
-Deployed Application: 
+Deployed Application: https://thawing-citadel-52004.herokuapp.com/
 <br/>
 * Create a Note Title
 * Enter Note Text in the text box below it
