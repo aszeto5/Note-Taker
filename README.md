@@ -19,8 +19,10 @@ Deployed Application:
 <br/>
 Note Taker Preview:
 <br/>
-Homepage:
+Homepage:<br/>
 ![image](https://user-images.githubusercontent.com/100250064/186585674-57301cd5-746c-4e96-977d-c64a6fbdc33f.png)
+
+<br/>
 
 Note Taking Page:<br/>
 ![image](https://user-images.githubusercontent.com/100250064/186585482-4204c731-e6f8-4e94-ad97-5aca44945176.png)
