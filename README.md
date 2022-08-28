@@ -20,6 +20,7 @@ Deployed Application: https://thawing-citadel-52004.herokuapp.com/
 Note Taker Preview:
 <br/>
 Homepage:<br/>
+
 ![image](https://user-images.githubusercontent.com/100250064/186585674-57301cd5-746c-4e96-977d-c64a6fbdc33f.png)
 
 <br/>
